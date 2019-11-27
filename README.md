@@ -11,7 +11,7 @@
 
 ### Ordinal Ranking
 
-
-
+* * *
+## Out of Distribution Dectect
 
 * [pdf](http://github.com)
