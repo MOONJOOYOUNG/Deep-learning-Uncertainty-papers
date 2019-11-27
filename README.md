@@ -7,7 +7,11 @@
 ## Non-Bayesian
 
 
-###Calibration
+### Calibration
 
-###Ordinal Ranking
+### Ordinal Ranking
 
+
+
+
+* [pdf](http://github.com)
