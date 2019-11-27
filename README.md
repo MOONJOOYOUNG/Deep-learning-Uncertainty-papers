@@ -1,15 +1,12 @@
 # Uncertainty in DeepLearning : Paper list
 
-# Bayesian
+## Bayesian
 
 
 
-# Non-Bayesian
+## Non-Bayesian
 
 
-
-  ## Over Confidence
-    ### Calibration
-
-    ### Ordinal Ranking
+* Calibration
+* Ordinal Ranking
 
