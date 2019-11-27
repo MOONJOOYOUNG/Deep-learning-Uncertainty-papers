@@ -1,14 +1,13 @@
 # Uncertainty in DeepLearning : Paper list
 
 ## Bayesian
-Or leave it empty and use the [https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet].
+* [pdf](http://github.com)
 
-http://github.com - automatic!
-[GitHub](http://github.com)
+* * *
 ## Non-Bayesian
 
 
-* Calibration
+###Calibration
 
-* Ordinal Ranking
+###Ordinal Ranking
 
