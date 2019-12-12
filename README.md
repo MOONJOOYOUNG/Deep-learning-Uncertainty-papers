@@ -54,6 +54,7 @@
 * 2017-Geifman-Selective Classification for Deep Neural Networks [paper](https://papers.nips.cc/paper/7073-selective-classification-for-deep-neural-networks.pdfm)
 * 2018-Geifman-Bias-Reduced Uncertainty Estimation for Deep Neural Classifiers [paper](https://arxiv.org/abs/1805.08206)
 
+* * *
 ## Out of Distribution Dectect
 * 2016-Hendrycks-A baseline for detecting misclassified and out-of-distribution examples in neural networks [paper](https://arxiv.org/abs/1610.02136)
 * 2017-Lee-Training confidence-calibrated classifiers for detecting out-of-distribution samples [paper](https://arxiv.org/abs/1711.09325)
