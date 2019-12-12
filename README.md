@@ -9,10 +9,6 @@
 * 2014-Naeini-Binary Classifier Calibration: Non-parametric approach [paper](http://github.com)
 * 2014-VanderPals-Frequentism and Bayesianism: A Python-driven Primer [paper](https://arxiv.org/pdf/1411.5018.pdf)
 * 2015-Naeini-Obtaining Well Calibrated Probabilities Using Bayesian Binning [paper](https://scholar.google.com/scholar?hl=ko&as_sdt=0%2C5&q=Obtaining+Well+Calibrated+Probabilities+Using+Bayesian+Binning&btnG=)
-* [paper](http://github.com)
-* [paper](http://github.com)
-
-
 
 * * *
 ## Bayesian
