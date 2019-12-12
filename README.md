@@ -21,9 +21,6 @@
 * 2018-Sensoy-Evidential deep learning to quantify classification uncertainty [paper](http://papers.nips.cc/paper/7580-evidential-deep-learning-to-quantify-classification-uncertainty)
 * 2019-Seo-Learning for single-shot confidence calibration in deep neural networks through stochastic inferences [paper](http://openaccess.thecvf.com/content_CVPR_2019/html/Seo_Learning_for_Single-Shot_Confidence_Calibration_in_Deep_Neural_Networks_Through_CVPR_2019_paper.html)
 * 2019-Ghandeharioun-Characterizing Sources of Uncertainty to Proxy Calibration and Disambiguate Annotator and Data Bias [paper](https://arxiv.org/abs/1909.09285)
-* [paper](http://github.com)
-* [paper](http://github.com)
-
 
 * * *
 ## Non-Bayesian
