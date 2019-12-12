@@ -1,4 +1,4 @@
-# Uncertainty in DeepLearning : Paper list
+# Uncertainty & Confidence in DeepLearning : Paper list
 
 ## Basic
 * 1995-Cordella-A Method for Improving Classification Reliability of Multilayer Perceptrons [paper](https://ieeexplore.ieee.org/abstract/document/410358)
@@ -10,32 +10,63 @@
 * 2014-VanderPals-Frequentism and Bayesianism: A Python-driven Primer [paper](https://arxiv.org/pdf/1411.5018.pdf)
 * 2015-Naeini-Obtaining Well Calibrated Probabilities Using Bayesian Binning [paper](https://scholar.google.com/scholar?hl=ko&as_sdt=0%2C5&q=Obtaining+Well+Calibrated+Probabilities+Using+Bayesian+Binning&btnG=)
 
+* [paper](http://github.com)
+* [paper](http://github.com)
+
 
 
 * * *
 ## Bayesian
 * 2015-Gal-Dropout as a Bayesian approximation [paper](https://arxiv.org/pdf/1506.02157.pdf)
 * 2016-Gal-Dropout as a Bayesian Approximation:Representing Model Uncertainty in Deep Learning [paper](http://www.jmlr.org/proceedings/papers/v48/gal16.pdf)
+* 2016-McClure-Representing inferential uncertainty in deep neural networks through sampling[paper](https://openreview.net/forum?id=HJ1JBJ5gl&noteId=HJhI6ZALe
+* 2017-Kendall-What Uncertainties Do We Need in Bayesian Deep Learning for Computer Vision?[paper](http://github.com) [paper (http://papers.nips.cc/paper/7141-what-uncertainties-do-we-need)
+* 2018-Ayhan-Test-time data augmentation for estimation of heteroscedastic aleatoric uncertainty in deep neural networks[paper](https://openreview.net/forum?id=rJZz-knjz)
+* 2018-Hafner-Noise Contrastive Priors for Functional Uncertainty[paper](https://arxiv.org/abs/1807.09289)
+* 2018-Sensoy-Evidential deep learning to quantify classification uncertainty[paper](http://papers.nips.cc/paper/7580-evidential-deep-learning-to-quantify-classification-uncertainty)
+* 2019-Seo-Learning for single-shot confidence calibration in deep neural networks through stochastic inferences[paper](http://openaccess.thecvf.com/content_CVPR_2019/html/Seo_Learning_for_Single-Shot_Confidence_Calibration_in_Deep_Neural_Networks_Through_CVPR_2019_paper.html)
 * [paper](http://github.com)
 * [paper](http://github.com)
+
 
 * * *
 ## Non-Bayesian
 * 2017-Kahn-Uncertainty-Aware Reinforcement Learning for Collision Avoidance [paper](https://arxiv.org/pdf/1702.01182.pdf)
+* 2017-Lakshminarayanan-Simple and Scalable Predictive Uncertainty Estimation using Deep Ensembles[paper](http://papers.nips.cc/paper/7219-simple-and-scalable-predictive-uncertainty-estimation-using-deep-ensembles)
 * 2018-Choi-Uncertainty-Aware Learning from Demonstration using Mixture Density Networks with Sampling-Free Variance Modeling [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8462978)
+* 2018-Cortes-Ciriano-Deep Confidence: A Computationally Efficient Framework for Calculating Reliable Prediction Errors for Deep Neural Networks[paper](https://pubs.acs.org/doi/abs/10.1021/acs.jcim.8b00542)
+* 2019-Bullock-XNet: A convolutional neural network (CNN) implementation for medical X-Ray image segmentation suitable for small datasets[paper](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10953/109531Z/XNet--a-convolutional-neural-network-CNN-implementation-for-medical/10.1117/12.2512451.short)
+* 2018-Jiang-To trust or not to trust a classifier[paper](http://papers.nips.cc/paper/7798-to-trust-or-not-to-trust-a-classifier)
+* [paper](http://github.com)
 * [paper](http://github.com)
 
-
-
-### Calibration
-* 2017-Guo-On Calibration of Modern Neural Networks [paper](https://arxiv.org/pdf/1706.04599.pdf)?)
+### Calibration & Confidence
+* 2017-Guo-On Calibration of Modern Neural Networks [paper](https://arxiv.org/pdf/1706.04599.pdf)
+* 2017-Mandelbaum-Distance-based Confidence Score for Neural Network Classifiers[paper](https://arxiv.org/abs/1709.09844)
+* 2017-Pereyra-Regularizing neural networks by penalizing confident output distributions[paper](https://arxiv.org/abs/1701.06548)
+* 2017-Pleiss-On Fairness and Calibration[paper](http://papers.nips.cc/paper/7151-on-fairness-and-calibration)
+* 2018-Gurau-Dropout Distillation for Efficiently Estimating Model Confidence[paper](https://arxiv.org/abs/1809.10562)
+* 2018-Kuleshob-Accurate Uncertainties for Deep Learning Using Calibrated Regression[paper](https://arxiv.org/abs/1807.00263)
+* 2018-Kumar-Trainable calibration measures for neural networks from kernel mean embeddings[paper](http://proceedings.mlr.press/v80/kumar18a.html)
+* 2018-Liu-Generalized zero-shot learning with deep calibration network[paper](http://papers.nips.cc/paper/7471-generalized-zero-shot-learning-with-deep-calibration-network)
+* 2018-Mozafari-Attended Temperature Scaling: A Practical Approach for Calibrating Deep Neural Networks[paper](https://arxiv.org/abs/1810.11586)
+* 2018-Neumann-Relaxed Softmax: Efficient Confidence Auto-Calibration for Safe Pedestrian Detection[paper](https://openreview.net/forum?id=S1lG7aTnqQ)
+* 2019-Hein-Why ReLU networks yield high-confidence predictions far away from the training data and how to mitigate the problem[paper](http://openaccess.thecvf.com/content_CVPR_2019/html/Hein_Why_ReLU_Networks_Yield_High-Confidence_Predictions_Far_Away_From_the_CVPR_2019_paper.html)
+* 2019-Hendrycks-Using pre-training can improve model robustness and uncertainty[paper](https://arxiv.org/abs/1901.09960)
+* 2019-Ji-Bin-wise Temperature Scaling (BTS): Improvement in Confidence Calibration Performance through Simple Scaling Techniques[paper](https://arxiv.org/abs/1908.11528)
+* 2019-Shrikumar-Calibration with Bias-Corrected Temperature Scaling Improves Domain Adaptation Under Label Shift in Modern Neural Networks[paper](https://arxiv.org/abs/1901.06852)
 * [paper](http://github.com)
 
 ### Ordinal Ranking
 * 2017-Geifman-Selective Classification for Deep Neural Networks [paper](https://papers.nips.cc/paper/7073-selective-classification-for-deep-neural-networks.pdfm)
+* 2018-Geifman-Bias-Reduced Uncertainty Estimation for Deep Neural Classifiers[paper](https://arxiv.org/abs/1805.08206)
 * [paper](http://github.com)
 
 * * *
 ## Out of Distribution Dectect
-
+* 2018-DeVries-Learning Confidence for Out-of-Distribution Detection in Neural Networks[paper](https://arxiv.org/abs/1802.04865)
+* 2018-Hendrycks-Deep anomaly detection with outlier exposure[paper](https://arxiv.org/abs/1812.04606)
+* 2018-Li-Reducing Over-confident Errors outside the Known Distribution[paper](https://arxiv.org/abs/1804.03166)
+* [paper](http://github.com)
+* [paper](http://github.com)
 * [paper](http://github.com)
