@@ -15,7 +15,7 @@
 * 2015-Gal-Dropout as a Bayesian approximation [paper](https://arxiv.org/pdf/1506.02157.pdf)
 * 2016-Gal-Dropout as a Bayesian Approximation:Representing Model Uncertainty in Deep Learning [paper](http://www.jmlr.org/proceedings/papers/v48/gal16.pdf)
 * 2016-McClure-Representing inferential uncertainty in deep neural networks through sampling [paper](https://openreview.net/forum?id=HJ1JBJ5gl&noteId=HJhI6ZALe
-* 2017-Kendall-What Uncertainties Do We Need in Bayesian Deep Learning for Computer Vision? [paper](http://github.com) [paper (http://papers.nips.cc/paper/7141-what-uncertainties-do-we-need)
+* 2017-Kendall-What Uncertainties Do We Need in Bayesian Deep Learning for Computer Vision? [paper](http://papers.nips.cc/paper/7141-what-uncertainties-do-we-need)
 * 2018-Ayhan-Test-time data augmentation for estimation of heteroscedastic aleatoric uncertainty in deep neural networks [paper](https://openreview.net/forum?id=rJZz-knjz)
 * 2018-Hafner-Noise Contrastive Priors for Functional Uncertainty [paper](https://arxiv.org/abs/1807.09289)
 * 2018-Sensoy-Evidential deep learning to quantify classification uncertainty [paper](http://papers.nips.cc/paper/7580-evidential-deep-learning-to-quantify-classification-uncertainty)
