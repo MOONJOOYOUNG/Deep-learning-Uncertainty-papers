@@ -45,7 +45,7 @@ class ModelWithTemperature(nn.Module):
 
         ece_li = []
         temperature_li = []
-        # ÃÖÀû °ª ¹üÀ§ ¼³Á¤. (0.1 ~ 5 »çÀÌ)  --- 0.1 º¸´Ù ÀÛ¾Æ¼± ¾È‰Î(Nan error).
+        # ìµœì  ê°’ ë²”ìœ„ ì„¤ì •. (0.1 ~ 5 ì‚¬ì´)  --- 0.1 ë³´ë‹¤ ì‘ì•„ì„  ì•ˆÂ‰(Nan error).
         linspace = list(np.linspace(0.1, 5, 100))
         print('Find temperature')
         for i in linspace:
@@ -57,7 +57,7 @@ class ModelWithTemperature(nn.Module):
             temperature_li.append(i)
         # temperature min index
         idx = np.argmin(ece_li)
-        # ÃÖ¼Ò ece °ª¿¡ ÇØ´çÇÏ´Â temperature °ª ¼³Á¤.
+        # ìµœì†Œ ece ê°’ì— í•´ë‹¹í•˜ëŠ” temperature ê°’ ì„¤ì •.
         self.set_temperature(temperature_li[idx])
         print('-------------------------------------------------')
         print('Set temperature: %.6f' % temperature_li[idx])
