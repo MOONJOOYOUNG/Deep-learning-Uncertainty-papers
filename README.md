@@ -74,5 +74,5 @@
 * 2019-Yu-Unsupervised Out-of-Distribution Detection by Maximum Classifier Discrepancy [paper](http://openaccess.thecvf.com/content_ICCV_2019/html/Yu_Unsupervised_Out-of-Distribution_Detection_by_Maximum_Classifier_Discrepancy_ICCV_2019_paper.html)
 * 2019-Rohekar-Modeling Uncertainty by Learning a Hierarchy of Deep Neural Connections [paper](https://papers.nips.cc/paper/8677-modeling-uncertainty-by-learning-a-hierarchy-of-deep-neural-connections)
 * 2019-Tagasovska-Single-Model Uncertainties for Deep Learning [paper](http://github.com)
-* [paper](http://github.com)
+* 2019-Roady-Are Out-of-Distribution Detection Methods Effective on Large-Scale Datasets?[paper](https://arxiv.org/pdf/1910.14034.pdf)
 * [paper](http://github.com)
