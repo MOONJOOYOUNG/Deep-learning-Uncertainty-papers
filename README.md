@@ -64,7 +64,7 @@
 * [paper](http://github.com)
 
 * * *
-## Out of Distribution Dectect
+## Out of Distribution Dectection
 * 2016-Hendrycks-A baseline for detecting misclassified and out-of-distribution examples in neural networks [paper](https://arxiv.org/abs/1610.02136)
 * 2017-Lee-Training confidence-calibrated classifiers for detecting out-of-distribution samples [paper](https://arxiv.org/abs/1711.09325)
 * 2017-Liang-Enhancing the reliability of out-of-distribution image detection in neural networks [paper](https://arxiv.org/abs/1706.02690)
