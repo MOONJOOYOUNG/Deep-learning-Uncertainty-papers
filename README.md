@@ -71,3 +71,7 @@
 * 2019-Tagasovska-Single-Model Uncertainties for Deep Learning [paper](http://github.com)
 * 2019-Roady-Are Out-of-Distribution Detection Methods Effective on Large-Scale Datasets?[paper](https://arxiv.org/pdf/1910.14034.pdf)
 * [paper](http://github.com)
+
+* * *
+## Adversarial Attack
+* 2019-Hendrycks-Adversarial Examples Are Not Bugs, They Are Features[paper](https://arxiv.org/abs/1905.02175)
