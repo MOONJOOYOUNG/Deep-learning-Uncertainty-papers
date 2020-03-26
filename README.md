@@ -68,10 +68,13 @@
 * 2018-Li-Reducing Over-confident Errors outside the Known Distribution [paper](https://arxiv.org/abs/1804.03166)
 * 2019-Yu-Unsupervised Out-of-Distribution Detection by Maximum Classifier Discrepancy [paper](http://openaccess.thecvf.com/content_ICCV_2019/html/Yu_Unsupervised_Out-of-Distribution_Detection_by_Maximum_Classifier_Discrepancy_ICCV_2019_paper.html)
 * 2019-Rohekar-Modeling Uncertainty by Learning a Hierarchy of Deep Neural Connections [paper](https://papers.nips.cc/paper/8677-modeling-uncertainty-by-learning-a-hierarchy-of-deep-neural-connections)
-* 2019-Tagasovska-Single-Model Uncertainties for Deep Learning [paper](http://github.com)
+* 2019-Tagasovska-Single-Model Uncertainties for Deep Learning [paper](https://arxiv.org/abs/1811.00908)
 * 2019-Roady-Are Out-of-Distribution Detection Methods Effective on Large-Scale Datasets?[paper](https://arxiv.org/pdf/1910.14034.pdf)
-* [paper](http://github.com)
+* 2020-Joan Serrà-Input complexity and out-of-distribution detection with likelihood-based generative models [paper](https://arxiv.org/abs/1909.11480)
 
 * * *
 ## Adversarial Attack
 * 2019-Hendrycks-Adversarial Examples Are Not Bugs, They Are Features [paper](https://arxiv.org/abs/1905.02175)
+
+
+* [paper](http://github.com)
