@@ -74,7 +74,7 @@
 
 * * *
 ## Adversarial Attack
-* 2019-Hendrycks-Adversarial Examples Are Not Bugs, They Are Features [paper](https://arxiv.org/abs/1905.02175)
+* 2019-Andrew Ilyas-Adversarial Examples Are Not Bugs, They Are Features [paper](https://arxiv.org/abs/1905.02175)
 
 
 * [paper](http://github.com)
