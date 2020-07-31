@@ -24,7 +24,7 @@
 * 2019-Ahn-Uncertainty-based Continual Learning with Adaptive Regularization [paper](https://papers.nips.cc/paper/8690-uncertainty-based-continual-learning-with-adaptive-regularization)
 * [paper](http://github.com)
 
-### Calibration & Confidence
+### Uncertainty
 * 2017-Kahn-Uncertainty-Aware Reinforcement Learning for Collision Avoidance [paper](https://arxiv.org/pdf/1702.01182.pdf)
 * 2017-Lakshminarayanan-Simple and Scalable Predictive Uncertainty Estimation using Deep Ensembles [paper](http://papers.nips.cc/paper/7219-simple-and-scalable-predictive-uncertainty-estimation-using-deep-ensembles)
 * 2017-Guo-On Calibration of Modern Neural Networks [paper](https://arxiv.org/pdf/1706.04599.pdf)
