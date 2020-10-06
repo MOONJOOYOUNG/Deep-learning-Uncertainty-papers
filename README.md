@@ -56,7 +56,7 @@
 ### Ordinal Ranking
 * 2017-Geifman-Selective Classification for Deep Neural Networks [paper](https://papers.nips.cc/paper/7073-selective-classification-for-deep-neural-networks.pdfm)
 * 2018-Geifman-Bias-Reduced Uncertainty Estimation for Deep Neural Classifiers [paper](https://arxiv.org/abs/1805.08206)
-* 2020-Moon-Confidence-Aware Learning for Deep Neural Networks[paper](https://arxiv.org/abs/2007.01458)
+* 2020-Moon-Confidence-Aware Learning for Deep Neural Networks [paper](https://arxiv.org/abs/2007.01458)
 * [paper](http://github.com)
 
 * * *
