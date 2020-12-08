@@ -79,6 +79,6 @@
 * * *
 ## Adversarial Attack
 * 2019-Andrew Ilyas-Adversarial Examples Are Not Bugs, They Are Features [paper](https://arxiv.org/abs/1905.02175) 
-* 2020-Finlay-Confidence-Calibrated Adversarial Training: Generalizing to Unseen Attacks [paper](https://arxiv.org/abs/1903.09215)
+* 2020-Finlay-Confidence-Calibrated Adversarial Training: Generalizing to Unseen Attacks[paper](https://arxiv.org/abs/1903.09215)
 
 * [paper](http://github.com)
