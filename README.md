@@ -35,7 +35,7 @@
 * 2017-Pleiss-On Fairness and Calibration [paper](http://papers.nips.cc/paper/7151-on-fairness-and-calibration)
 * 2017-Geifman-Selective Classification for Deep Neural Networks [paper](https://papers.nips.cc/paper/7073-selective-classification-for-deep-neural-networks.pdfm)
 * 2018-Choi-Uncertainty-Aware Learning from Demonstration using Mixture Density Networks [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8462978)
-* 2018-Cortes-Ciriano-Deep Confidence: A Computationally Efficient Framework for Calculating Reliable Prediction Errors for Deep Neural Networks [paper](https://pubs.acs.org/doi/abs/10.1021/acs.jcim.8b00542)
+* 2018-Cortes-A Computationally Efficient Framework for Calculating Reliable Prediction Errors for Deep Neural Networks [paper](https://pubs.acs.org/doi/abs/10.1021/acs.jcim.8b00542)
 * 2018-Jiang-To trust or not to trust a classifier [paper](http://papers.nips.cc/paper/7798-to-trust-or-not-to-trust-a-classifier)
 * 2018-Gurau-Dropout Distillation for Efficiently Estimating Model Confidence [paper](https://arxiv.org/abs/1809.10562)
 * 2018-Kuleshob-Accurate Uncertainties for Deep Learning Using Calibrated Regression [paper](https://arxiv.org/abs/1807.00263)
