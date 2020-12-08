@@ -22,6 +22,7 @@
 * 2019-Ghandeharioun-Characterizing Sources of Uncertainty to Proxy Calibration and Disambiguate Annotator and Data Bias [paper](https://arxiv.org/abs/1909.09285)
 * 2019-Ahn-Uncertainty-based Continual Learning with Adaptive Regularization [paper](https://papers.nips.cc/paper/8690-uncertainty-based-continual-learning-with-adaptive-regularization)
 * 2020-Joo-Being Bayesian about Categorical Probability [paper](https://arxiv.org/abs/2002.07965)
+* 2020-Kristiadi-Being Bayesian, Even Just a Bit, Fixes Overconfidence in ReLU Networks[paper](https://arxiv.org/abs/2002.10118)
 * [paper](http://github.com)
 
 
@@ -72,7 +73,7 @@
 * 2019-Tagasovska-Single-Model Uncertainties for Deep Learning [paper](https://arxiv.org/abs/1811.00908)
 * 2019-Roady-Are Out-of-Distribution Detection Methods Effective on Large-Scale Datasets?[paper](https://arxiv.org/pdf/1910.14034.pdf)
 * 2020-Serrà-Input complexity and out-of-distribution detection with likelihood-based generative models [paper](https://arxiv.org/abs/1909.11480)
-* [paper](http://github.com)
+* 2020-Sastry-Detecting Out-of-Distribution Examples with In-distribution Examples and Gram Matrices[paper](http://github.com)
 
 * * *
 ## Adversarial Attack
