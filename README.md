@@ -25,7 +25,7 @@
 * [paper](http://github.com)
 
 
-### Uncertainty
+## Uncertainty
 * 2017-Kahn-Uncertainty-Aware Reinforcement Learning for Collision Avoidance [paper](https://arxiv.org/pdf/1702.01182.pdf)
 * 2017-Lakshminarayanan-Simple and Scalable Predictive Uncertainty Estimation using Deep Ensembles [paper](http://papers.nips.cc/paper/7219-simple-and-scalable-predictive-uncertainty-estimation-using-deep-ensembles)
 * 2017-Guo-On Calibration of Modern Neural Networks [paper](https://arxiv.org/pdf/1706.04599.pdf)
@@ -56,7 +56,7 @@
 
 * [paper](http://github.com)
 
-### Ordinal Ranking
+## Ordinal Ranking
 * 2017-Geifman-Selective Classification for Deep Neural Networks [paper](https://papers.nips.cc/paper/7073-selective-classification-for-deep-neural-networks.pdfm)
 * 2018-Geifman-Bias-Reduced Uncertainty Estimation for Deep Neural Classifiers [paper](https://arxiv.org/abs/1805.08206)
 * 2020-Moon-Confidence-Aware Learning for Deep Neural Networks [paper](https://arxiv.org/abs/2007.01458)
