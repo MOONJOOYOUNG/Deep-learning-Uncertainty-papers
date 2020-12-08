@@ -25,13 +25,14 @@
 * [paper](http://github.com)
 
 
-## Uncertainty
+## Uncertainty & Confidence
 * 2017-Kahn-Uncertainty-Aware Reinforcement Learning for Collision Avoidance [paper](https://arxiv.org/pdf/1702.01182.pdf)
 * 2017-Lakshminarayanan-Simple and Scalable Predictive Uncertainty Estimation using Deep Ensembles [paper](http://papers.nips.cc/paper/7219-simple-and-scalable-predictive-uncertainty-estimation-using-deep-ensembles)
 * 2017-Guo-On Calibration of Modern Neural Networks [paper](https://arxiv.org/pdf/1706.04599.pdf)
 * 2017-Mandelbaum-Distance-based Confidence Score for Neural Network Classifiers [paper](https://arxiv.org/abs/1709.09844)
 * 2017-Pereyra-Regularizing neural networks by penalizing confident output distributions [paper](https://arxiv.org/abs/1701.06548)
 * 2017-Pleiss-On Fairness and Calibration [paper](http://papers.nips.cc/paper/7151-on-fairness-and-calibration)
+* 2017-Geifman-Selective Classification for Deep Neural Networks [paper](https://papers.nips.cc/paper/7073-selective-classification-for-deep-neural-networks.pdfm)
 * 2018-Choi-Uncertainty-Aware Learning from Demonstration using Mixture Density Networks with Sampling-Free Variance Modeling [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8462978)
 * 2018-Cortes-Ciriano-Deep Confidence: A Computationally Efficient Framework for Calculating Reliable Prediction Errors for Deep Neural Networks [paper](https://pubs.acs.org/doi/abs/10.1021/acs.jcim.8b00542)
 * 2018-Jiang-To trust or not to trust a classifier [paper](http://papers.nips.cc/paper/7798-to-trust-or-not-to-trust-a-classifier)
@@ -41,6 +42,7 @@
 * 2018-Liu-Generalized zero-shot learning with deep calibration network [paper](http://papers.nips.cc/paper/7471-generalized-zero-shot-learning-with-deep-calibration-network)
 * 2018-Mozafari-Attended Temperature Scaling: A Practical Approach for Calibrating Deep Neural Networks [paper](https://arxiv.org/abs/1810.11586)
 * 2018-Neumann-Relaxed Softmax: Efficient Confidence Auto-Calibration for Safe Pedestrian Detection [paper](https://openreview.net/forum?id=S1lG7aTnqQ)
+* 2018-Geifman-Bias-Reduced Uncertainty Estimation for Deep Neural Classifiers [paper](https://arxiv.org/abs/1805.08206)
 * 2019-Hein-Why ReLU networks yield high-confidence predictions far away from the training data and how to mitigate the problem [paper](http://openaccess.thecvf.com/content_CVPR_2019/html/Hein_Why_ReLU_Networks_Yield_High-Confidence_Predictions_Far_Away_From_the_CVPR_2019_paper.html)
 * 2019-Bullock-XNet: A convolutional neural network (CNN) implementation for medical X-Ray image segmentation suitable for small datasets [paper](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10953/109531Z/XNet--a-convolutional-neural-network-CNN-implementation-for-medical/10.1117/12.2512451.short)
 * 2019-Hendrycks-AugMix: A Simple Data Processing Method to Improve Robustness and Uncertainty [paper](https://arxiv.org/abs/1912.02781)
@@ -53,14 +55,9 @@
 * 2019-Corbiere-Addressing Failure Prediction by learning model confidence [paper](https://arxiv.org/abs/1910.04851)
 * 2019-Kumar-Verified Uncertainty Calibration [paper](https://papers.nips.cc/paper/8635-verified-uncertainty-calibration)
 * 2020-Amersfoort-Uncertainty Estimation Using a Single Deep Deterministic Neural Network [paper](https://arxiv.org/abs/2003.02037)
-
-* [paper](http://github.com)
-
-## Ordinal Ranking
-* 2017-Geifman-Selective Classification for Deep Neural Networks [paper](https://papers.nips.cc/paper/7073-selective-classification-for-deep-neural-networks.pdfm)
-* 2018-Geifman-Bias-Reduced Uncertainty Estimation for Deep Neural Classifiers [paper](https://arxiv.org/abs/1805.08206)
 * 2020-Moon-Confidence-Aware Learning for Deep Neural Networks [paper](https://arxiv.org/abs/2007.01458)
 * [paper](http://github.com)
+
 
 * * *
 ## Out of Distribution Dectection
@@ -75,10 +72,10 @@
 * 2019-Tagasovska-Single-Model Uncertainties for Deep Learning [paper](https://arxiv.org/abs/1811.00908)
 * 2019-Roady-Are Out-of-Distribution Detection Methods Effective on Large-Scale Datasets?[paper](https://arxiv.org/pdf/1910.14034.pdf)
 * 2020-Serrà-Input complexity and out-of-distribution detection with likelihood-based generative models [paper](https://arxiv.org/abs/1909.11480)
+* [paper](http://github.com)
 
 * * *
 ## Adversarial Attack
 * 2019-Andrew Ilyas-Adversarial Examples Are Not Bugs, They Are Features [paper](https://arxiv.org/abs/1905.02175) 
 * 2020-Finlay-Confidence-Calibrated Adversarial Training: Generalizing to Unseen Attacks [paper](https://arxiv.org/abs/1903.09215)
-
 * [paper](http://github.com)
