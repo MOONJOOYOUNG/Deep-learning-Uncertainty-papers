@@ -21,7 +21,7 @@
 * 2019-Seo-Learning for single-shot confidence calibration in deep neural networks through stochastic inferences [paper](http://openaccess.thecvf.com/content_CVPR_2019/html/Seo_Learning_for_Single-Shot_Confidence_Calibration_in_Deep_Neural_Networks_Through_CVPR_2019_paper.html)
 * 2019-Ghandeharioun-Characterizing Sources of Uncertainty to Proxy Calibration and Disambiguate Annotator and Data Bias [paper](https://arxiv.org/abs/1909.09285)
 * 2019-Ahn-Uncertainty-based Continual Learning with Adaptive Regularization [paper](https://papers.nips.cc/paper/8690-uncertainty-based-continual-learning-with-adaptive-regularization)
-* 2020-T Joo-Being Bayesian about Categorical Probability [paper](https://arxiv.org/abs/2002.07965)
+* 2020-Joo-Being Bayesian about Categorical Probability [paper](https://arxiv.org/abs/2002.07965)
 * [paper](http://github.com)
 
 
@@ -52,7 +52,7 @@
 * 2019-Zhilu-Confidence Calibration for Convolutional Neural Networks Using Structured Dropout[paper](https://arxiv.org/pdf/1906.09551.pdf)
 * 2019-Corbiere-Addressing Failure Prediction by learning model confidence [paper](https://arxiv.org/abs/1910.04851)
 * 2019-Kumar-Verified Uncertainty Calibration [paper](https://papers.nips.cc/paper/8635-verified-uncertainty-calibration)
-* 2020-J van Amersfoort-Uncertainty Estimation Using a Single Deep Deterministic Neural Network [paper](https://arxiv.org/abs/2003.02037)
+* 2020-Amersfoort-Uncertainty Estimation Using a Single Deep Deterministic Neural Network [paper](https://arxiv.org/abs/2003.02037)
 
 * [paper](http://github.com)
 
@@ -74,11 +74,11 @@
 * 2019-Rohekar-Modeling Uncertainty by Learning a Hierarchy of Deep Neural Connections [paper](https://papers.nips.cc/paper/8677-modeling-uncertainty-by-learning-a-hierarchy-of-deep-neural-connections)
 * 2019-Tagasovska-Single-Model Uncertainties for Deep Learning [paper](https://arxiv.org/abs/1811.00908)
 * 2019-Roady-Are Out-of-Distribution Detection Methods Effective on Large-Scale Datasets?[paper](https://arxiv.org/pdf/1910.14034.pdf)
-* 2020-Joan Serrà-Input complexity and out-of-distribution detection with likelihood-based generative models [paper](https://arxiv.org/abs/1909.11480)
+* 2020-Serrà-Input complexity and out-of-distribution detection with likelihood-based generative models [paper](https://arxiv.org/abs/1909.11480)
 
 * * *
 ## Adversarial Attack
-* 2019-Andrew Ilyas-Adversarial Examples Are Not Bugs, They Are Features [paper](https://arxiv.org/abs/1905.02175)
-
+* 2019-Andrew Ilyas-Adversarial Examples Are Not Bugs, They Are Features [paper](https://arxiv.org/abs/1905.02175) 
+* 2020-Finlay-Confidence-Calibrated Adversarial Training: Generalizing to Unseen Attacks [paper](https://arxiv.org/abs/1903.09215)
 
 * [paper](http://github.com)
