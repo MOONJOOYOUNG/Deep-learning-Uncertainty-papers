@@ -52,7 +52,7 @@
 * 2019-Hendrycks-Using pre-training can improve model robustness and uncertainty [paper](https://arxiv.org/abs/1901.09960)
 * 2019-Ji-Bin-wise Temperature Scaling:Improvement in Confidence Calibration Performance through Simple Scaling Techniques [paper](https://arxiv.org/abs/1908.11528)
 * 2019-Shrikumar-Calibration with Bias-Corrected Temperature Scaling Improves Domain Adaptation Under Label Shift in Modern Neural Networks [paper](https://arxiv.org/abs/1901.06852)
-* 2019-Zhilu-Confidence Calibration for Convolutional Neural Networks Using Structured Dropout[paper](https://arxiv.org/pdf/1906.09551.pdf)
+* 2019-Zhilu-Confidence Calibration for Convolutional Neural Networks Using Structured Dropout [paper](https://arxiv.org/pdf/1906.09551.pdf)
 * 2019-Corbiere-Addressing Failure Prediction by learning model confidence [paper](https://arxiv.org/abs/1910.04851)
 * 2019-Kumar-Verified Uncertainty Calibration [paper](https://papers.nips.cc/paper/8635-verified-uncertainty-calibration)
 * 2019-Thulasidasan-On Mixup Training: Improved Calibration and Predictive Uncertainty for Deep Neural Networks [paper](https://arxiv.org/abs/1905.11001)
