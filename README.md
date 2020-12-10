@@ -55,6 +55,7 @@
 * 2019-Zhilu-Confidence Calibration for Convolutional Neural Networks Using Structured Dropout[paper](https://arxiv.org/pdf/1906.09551.pdf)
 * 2019-Corbiere-Addressing Failure Prediction by learning model confidence [paper](https://arxiv.org/abs/1910.04851)
 * 2019-Kumar-Verified Uncertainty Calibration [paper](https://papers.nips.cc/paper/8635-verified-uncertainty-calibration)
+* 2019-Thulasidasan-On Mixup Training: Improved Calibration and Predictive Uncertainty for Deep Neural Networks [paper](https://arxiv.org/abs/1905.11001)
 * 2020-Amersfoort-Uncertainty Estimation Using a Single Deep Deterministic Neural Network [paper](https://arxiv.org/abs/2003.02037)
 * 2020-Moon-Confidence-Aware Learning for Deep Neural Networks [paper](https://arxiv.org/abs/2007.01458)
 * [paper](http://github.com)
