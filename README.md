@@ -22,7 +22,7 @@
 * 2019-Ghandeharioun-Characterizing Sources of Uncertainty to Proxy Calibration and Disambiguate Annotator and Data Bias [paper](https://arxiv.org/abs/1909.09285)
 * 2019-Ahn-Uncertainty-based Continual Learning with Adaptive Regularization [paper](https://papers.nips.cc/paper/8690-uncertainty-based-continual-learning-with-adaptive-regularization)
 * 2020-Joo-Being Bayesian about Categorical Probability [paper](https://arxiv.org/abs/2002.07965)
-* 2020-Kristiadi-Being Bayesian, Even Just a Bit, Fixes Overconfidence in ReLU Networks[paper](https://arxiv.org/abs/2002.10118)
+* 2020-Kristiadi-Being Bayesian, Even Just a Bit, Fixes Overconfidence in ReLU Networks [paper](https://arxiv.org/abs/2002.10118)
 * [paper](http://github.com)
 
 
