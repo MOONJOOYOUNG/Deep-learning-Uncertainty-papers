@@ -1,4 +1,4 @@
-# Uncertainty & Confidence in Deeplearning 
+# Uncertainty & Confidence in Deeplearning Papers
 
 ## Basic
 * 1995-Cordella-A Method for Improving Classification Reliability of Multilayer Perceptrons [paper](https://ieeexplore.ieee.org/abstract/document/410358)
