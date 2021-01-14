@@ -73,8 +73,9 @@
 * 2019-Rohekar-Modeling Uncertainty by Learning a Hierarchy of Deep Neural Connections [paper](https://papers.nips.cc/paper/8677-modeling-uncertainty-by-learning-a-hierarchy-of-deep-neural-connections)
 * 2019-Tagasovska-Single-Model Uncertainties for Deep Learning [paper](https://arxiv.org/abs/1811.00908)
 * 2019-Roady-Are Out-of-Distribution Detection Methods Effective on Large-Scale Datasets? [paper](https://arxiv.org/pdf/1910.14034.pdf)
+* 2019-Sastry-Detecting Out-of-Distribution Examples with In-distribution Examples and Gram Matrices [paper](https://arxiv.org/abs/1912.12510)
 * 2020-Serrà-Input complexity and out-of-distribution detection with likelihood-based generative models [paper](https://arxiv.org/abs/1909.11480)
-* 2020-Sastry-Detecting Out-of-Distribution Examples with In-distribution Examples and Gram Matrices [paper](http://github.com)
+* 2020-J Tack-CSI: Novelty Detection via Contrastive Learning on Distributionally Shifted Instances [paper](https://arxiv.org/abs/2007.08176)
 
 * * *
 ## Adversarial Attack
