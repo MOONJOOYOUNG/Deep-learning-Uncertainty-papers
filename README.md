@@ -58,6 +58,7 @@
 * 2019-Thulasidasan-On Mixup Training: Improved Calibration and Predictive Uncertainty for DNN [paper](https://arxiv.org/abs/1905.11001)
 * 2020-Amersfoort-Uncertainty Estimation Using a Single Deep Deterministic Neural Network [paper](https://arxiv.org/abs/2003.02037)
 * 2020-Moon-Confidence-Aware Learning for Deep Neural Networks [paper](https://arxiv.org/abs/2007.01458)
+* 2020-Corbiere-Confidence Estimation via Auxiliary Models[paper](https://arxiv.org/pdf/2012.06508.pdf)
 * [paper](http://github.com)
 
 
