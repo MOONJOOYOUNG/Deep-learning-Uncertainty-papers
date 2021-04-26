@@ -59,7 +59,10 @@
 * 2020-Amersfoort-Uncertainty Estimation Using a Single Deep Deterministic Neural Network [paper](https://arxiv.org/abs/2003.02037)
 * 2020-Moon-Confidence-Aware Learning for Deep Neural Networks [paper](https://arxiv.org/abs/2007.01458)
 * 2020-Corbiere-Confidence Estimation via Auxiliary Models [paper](https://arxiv.org/pdf/2012.06508.pdf)
+* 2020-Charpentier-Posterior Network: Uncertainty Estimation without OOD Samples via Density-Based Pseudo-Counts[paper](https://arxiv.org/abs/2006.09239)
+* 2020-Wenzel-Hyperparameter Ensembles for Robustness and Uncertainty Quantification[paper](https://arxiv.org/pdf/2006.13570.pdf)
 * [paper](http://github.com)
+
 
 
 * * *
