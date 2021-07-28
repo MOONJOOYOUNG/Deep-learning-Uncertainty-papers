@@ -56,14 +56,18 @@
 * 2019-Corbiere-Addressing Failure Prediction by learning model confidence [paper](https://arxiv.org/abs/1910.04851)
 * 2019-Kumar-Verified Uncertainty Calibration [paper](https://papers.nips.cc/paper/8635-verified-uncertainty-calibration)
 * 2019-Thulasidasan-On Mixup Training: Improved Calibration and Predictive Uncertainty for DNN [paper](https://arxiv.org/abs/1905.11001)
-* 2020-Amersfoort-Uncertainty Estimation Using a Single Deep Deterministic Neural Network [paper](https://arxiv.org/abs/2003.02037)
+* 2020-J van Amersfoort-Uncertainty Estimation Using a Single Deep Deterministic Neural Network [paper](https://arxiv.org/abs/2003.02037)
 * 2020-Moon-Confidence-Aware Learning for Deep Neural Networks [paper](https://arxiv.org/abs/2007.01458)
 * 2020-Corbiere-Confidence Estimation via Auxiliary Models [paper](https://arxiv.org/pdf/2012.06508.pdf)
-* 2020-Charpentier-Posterior Network: Uncertainty Estimation without OOD Samples via Density-Based Pseudo-Counts[paper](https://arxiv.org/abs/2006.09239)
-* 2020-Wenzel-Hyperparameter Ensembles for Robustness and Uncertainty Quantification[paper](https://arxiv.org/pdf/2006.13570.pdf)
+* 2020-Charpentier-Posterior Network: Uncertainty Estimation without OOD Samples via Density-Based Pseudo-Counts [paper](https://arxiv.org/abs/2006.09239)
+* 2020-Wenzel-Hyperparameter Ensembles for Robustness and Uncertainty Quantification [paper](https://arxiv.org/pdf/2006.13570.pdf)
+* 2020-S Desai-Calibration of Pre-trained Transformers [paper](https://arxiv.org/abs/2003.07892)
+* 2020-M Abdar-A Review of Uncertainty Quantification in Deep Learning: Techniques, Applications and Challenges [paper](https://arxiv.org/abs/2011.06225)
+* 2021-RJN Baldock -Deep Learning Through the Lens of Example Difficulty [paper](https://arxiv.org/abs/2106.09647)
+* 2021-M Minderer-Revisiting the Calibration of Modern Neural Networks [paper](https://arxiv.org/abs/2106.07998)
+* 2021-J van Amersfoort-On Feature Collapse and Deep Kernel Learning for Single Forward Pass Uncertainty [paper](https://arxiv.org/abs/2102.11409)
+* 2021-J Mukhoti-Deterministic Neural Networks with Inductive Biases Capture Epistemic and Aleatoric Uncertainty[paper](https://arxiv.org/abs/2102.11582)
 * [paper](http://github.com)
-
-
 
 * * *
 ## Out of Distribution Dectection
@@ -78,11 +82,23 @@
 * 2019-Tagasovska-Single-Model Uncertainties for Deep Learning [paper](https://arxiv.org/abs/1811.00908)
 * 2019-Roady-Are Out-of-Distribution Detection Methods Effective on Large-Scale Datasets? [paper](https://arxiv.org/pdf/1910.14034.pdf)
 * 2019-Sastry-Detecting Out-of-Distribution Examples with In-distribution Examples and Gram Matrices [paper](https://arxiv.org/abs/1912.12510)
+* 2019-AA Papadopoulos-Outlier Exposure with Confidence Control for Out-of-Distribution Detection [paper](https://arxiv.org/abs/1906.03509m)
+* 2019-L Ruff-Deep Semi-Supervised Anomaly Detection [paper](https://arxiv.org/abs/1906.02694)
 * 2020-Serrà-Input complexity and out-of-distribution detection with likelihood-based generative models [paper](https://arxiv.org/abs/1909.11480)
 * 2020-J Tack-CSI: Novelty Detection via Contrastive Learning on Distributionally Shifted Instances [paper](https://arxiv.org/abs/2007.08176)
+* 2020-L Ruff-A Unifying Review of Deep and Shallow Anomaly Detection [paper](https://arxiv.org/abs/2009.11732)
+* 2020-D Hendrycks-The Many Faces of Robustness: A Critical Analysis of Out-of-Distribution Generalization [paper](https://arxiv.org/abs/2006.16241)
+* 2020-W Liu-Energy-based Out-of-distribution Detection [paper](https://arxiv.org/abs/2010.03759)
+* 2021-M Arjovsky -Out of Distribution Generalization in Machine Learning [paper](https://arxiv.org/abs/2103.02667)
+* 2021-D Zhang -Can Subnetwork Structure be the Key to Out-of-Distribution Generalization? [paper](https://arxiv.org/abs/2106.02890)
+* 2021-X Wang-Undefined class-label detection vs out-of-distribution detection [paper](https://arxiv.org/abs/2102.12959)
+* 2021-C Berger-Confidence-based Out-of-Distribution Detection: A Comparative Study and Analysis[paper](https://arxiv.org/abs/2107.02568)
+* 2021-S Fort-Exploring the Limits of Out-of-Distribution Detection [paper](Exploring the Limits of Out-of-Distribution Detection)
 
 * * *
 ## Adversarial Attack
 * 2019-Andrew Ilyas-Adversarial Examples Are Not Bugs, They Are Features [paper](https://arxiv.org/abs/1905.02175) 
 * 2020-Finlay-Confidence-Calibrated Adversarial Training: Generalizing to Unseen Attacks [paper](https://arxiv.org/abs/1903.09215)
+* 2020-H Salman-Do Adversarially Robust ImageNet Models Transfer Better? [paper](http://github.com)
+* 2020-J Zhang-Geometry-aware Instance-reweighted Adversarial Training [paper](https://openreview.net/forum?id=iAX0l6Cz8ub)
 * [paper](http://github.com)
