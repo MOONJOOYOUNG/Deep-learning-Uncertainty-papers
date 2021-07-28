@@ -93,7 +93,7 @@
 * 2021-D Zhang -Can Subnetwork Structure be the Key to Out-of-Distribution Generalization? [paper](https://arxiv.org/abs/2106.02890)
 * 2021-X Wang-Undefined class-label detection vs out-of-distribution detection [paper](https://arxiv.org/abs/2102.12959)
 * 2021-C Berger-Confidence-based Out-of-Distribution Detection: A Comparative Study and Analysis[paper](https://arxiv.org/abs/2107.02568)
-* 2021-S Fort-Exploring the Limits of Out-of-Distribution Detection [paper](Exploring the Limits of Out-of-Distribution Detection)
+* 2021-S Fort-Exploring the Limits of Out-of-Distribution Detection [paper](https://arxiv.org/abs/2106.03004)
 
 * * *
 ## Adversarial Attack
