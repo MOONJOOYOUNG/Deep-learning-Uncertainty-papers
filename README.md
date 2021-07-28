@@ -99,6 +99,6 @@
 ## Adversarial Attack
 * 2019-Andrew Ilyas-Adversarial Examples Are Not Bugs, They Are Features [paper](https://arxiv.org/abs/1905.02175) 
 * 2020-Finlay-Confidence-Calibrated Adversarial Training: Generalizing to Unseen Attacks [paper](https://arxiv.org/abs/1903.09215)
-* 2020-H Salman-Do Adversarially Robust ImageNet Models Transfer Better? [paper](http://github.com)
+* 2020-H Salman-Do Adversarially Robust ImageNet Models Transfer Better? [paper](https://arxiv.org/abs/2007.08489)
 * 2020-J Zhang-Geometry-aware Instance-reweighted Adversarial Training [paper](https://openreview.net/forum?id=iAX0l6Cz8ub)
 * [paper](http://github.com)
