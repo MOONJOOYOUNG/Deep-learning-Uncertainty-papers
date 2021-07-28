@@ -66,7 +66,7 @@
 * 2021-RJN Baldock -Deep Learning Through the Lens of Example Difficulty [paper](https://arxiv.org/abs/2106.09647)
 * 2021-M Minderer-Revisiting the Calibration of Modern Neural Networks [paper](https://arxiv.org/abs/2106.07998)
 * 2021-J van Amersfoort-On Feature Collapse and Deep Kernel Learning for Single Forward Pass Uncertainty [paper](https://arxiv.org/abs/2102.11409)
-* 2021-J Mukhoti-Deterministic Neural Networks with Inductive Biases Capture Epistemic and Aleatoric Uncertainty[paper](https://arxiv.org/abs/2102.11582)
+* 2021-J Mukhoti-Deterministic Neural Networks with Inductive Biases Capture Epistemic and Aleatoric Uncertainty [paper](https://arxiv.org/abs/2102.11582) 
 * [paper](http://github.com)
 
 * * *
