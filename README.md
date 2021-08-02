@@ -95,7 +95,7 @@
 * 2021-S Fort-Exploring the Limits of Out-of-Distribution Detection [paper](https://arxiv.org/abs/2106.03004)
 * 2021-Z Lin-MOOD: Multi-level Out-of-distribution Detection [paper](https://arxiv.org/abs/2104.14726)
 * 2021-R Huang-MOS: Towards Scaling Out-of-distribution Detection for Large Semantic Space [paper](https://arxiv.org/abs/2105.01879)
-* 2021--Out-of-Distribution Detection Using Union of 1-Dimensional Subspaces [paper](https://openaccess.thecvf.com/content/CVPR2021/html/Zaeemzadeh_Out-of-Distribution_Detection_Using_Union_of_1-Dimensional_Subspaces_CVPR_2021_paper.html)
+* 2021-A Zaeemzadeh-Out-of-Distribution Detection Using Union of 1-Dimensional Subspaces [paper](https://openaccess.thecvf.com/content/CVPR2021/html/Zaeemzadeh_Out-of-Distribution_Detection_Using_Union_of_1-Dimensional_Subspaces_CVPR_2021_paper.html)
 * [paper](http://github.com)
 
 * * *
