@@ -23,8 +23,6 @@
 * 2019-Ahn-Uncertainty-based Continual Learning with Adaptive Regularization [paper](https://papers.nips.cc/paper/8690-uncertainty-based-continual-learning-with-adaptive-regularization)
 * 2020-Joo-Being Bayesian about Categorical Probability [paper](https://arxiv.org/abs/2002.07965)
 * 2020-Kristiadi-Being Bayesian, Even Just a Bit, Fixes Overconfidence in ReLU Networks [paper](https://arxiv.org/abs/2002.10118)
-* [paper](http://github.com)
-
 
 ## Uncertainty & Confidence
 * 2017-Kahn-Uncertainty-Aware Reinforcement Learning for Collision Avoidance [paper](https://arxiv.org/pdf/1702.01182.pdf)
@@ -67,6 +65,7 @@
 * 2021-M Minderer-Revisiting the Calibration of Modern Neural Networks [paper](https://arxiv.org/abs/2106.07998)
 * 2021-J van Amersfoort-On Feature Collapse and Deep Kernel Learning for Single Forward Pass Uncertainty [paper](https://arxiv.org/abs/2102.11409)
 * 2021-J Mukhoti-Deterministic Neural Networks with Inductive Biases Capture Epistemic and Aleatoric Uncertainty [paper](https://arxiv.org/abs/2102.11582) 
+* 2021-C Tomani-Post-hoc Uncertainty Calibration for Domain Drift Scenarios [paper](http://github.com)
 * [paper](http://github.com)
 
 * * *
@@ -94,6 +93,10 @@
 * 2021-X Wang-Undefined class-label detection vs out-of-distribution detection [paper](https://arxiv.org/abs/2102.12959)
 * 2021-C Berger-Confidence-based Out-of-Distribution Detection: A Comparative Study and Analysis[paper](https://arxiv.org/abs/2107.02568)
 * 2021-S Fort-Exploring the Limits of Out-of-Distribution Detection [paper](https://arxiv.org/abs/2106.03004)
+* 2021-Z Lin-MOOD: Multi-level Out-of-distribution Detection [paper](https://arxiv.org/abs/2104.14726)
+* 2021-R Huang-MOS: Towards Scaling Out-of-distribution Detection for Large Semantic Space [paper](https://arxiv.org/abs/2105.01879)
+* 2021--Out-of-Distribution Detection Using Union of 1-Dimensional Subspaces [paper](https://openaccess.thecvf.com/content/CVPR2021/html/Zaeemzadeh_Out-of-Distribution_Detection_Using_Union_of_1-Dimensional_Subspaces_CVPR_2021_paper.html)
+* [paper](http://github.com)
 
 * * *
 ## Adversarial Attack
