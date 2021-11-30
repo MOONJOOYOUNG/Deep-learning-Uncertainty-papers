@@ -61,11 +61,16 @@
 * 2020-Wenzel-Hyperparameter Ensembles for Robustness and Uncertainty Quantification [paper](https://arxiv.org/pdf/2006.13570.pdf)
 * 2020-S Desai-Calibration of Pre-trained Transformers [paper](https://arxiv.org/abs/2003.07892)
 * 2020-M Abdar-A Review of Uncertainty Quantification in Deep Learning: Techniques, Applications and Challenges [paper](https://arxiv.org/abs/2011.06225)
-* 2021-RJN Baldock -Deep Learning Through the Lens of Example Difficulty [paper](https://arxiv.org/abs/2106.09647)
+* 2021-RJN Baldock-Deep Learning Through the Lens of Example Difficulty [paper](https://arxiv.org/abs/2106.09647)
 * 2021-M Minderer-Revisiting the Calibration of Modern Neural Networks [paper](https://arxiv.org/abs/2106.07998)
 * 2021-J van Amersfoort-On Feature Collapse and Deep Kernel Learning for Single Forward Pass Uncertainty [paper](https://arxiv.org/abs/2102.11409)
 * 2021-J Mukhoti-Deterministic Neural Networks with Inductive Biases Capture Epistemic and Aleatoric Uncertainty [paper](https://arxiv.org/abs/2102.11582) 
 * 2021-C Tomani-Post-hoc Uncertainty Calibration for Domain Drift Scenarios [paper](http://github.com)
+* 2021-R Rahaman-Uncertainty Quantification and Deep Ensembles [paper](https://arxiv.org/abs/2007.08792)
+* 2021-I Galil-Disrupting Deep Uncertainty Estimation Without
+Harming Accuracy [paper](https://arxiv.org/abs/2110.13741)
+* 2021-DB Wang-Rethinking Calibration of Deep Neural Networks:
+Do Not Be Afraid of Overconfidence [paper](http://palm.seu.edu.cn/zhangml/files/NeurIPS'21a.pdf)
 * [paper](http://github.com)
 
 * * *
@@ -88,6 +93,8 @@
 * 2020-L Ruff-A Unifying Review of Deep and Shallow Anomaly Detection [paper](https://arxiv.org/abs/2009.11732)
 * 2020-D Hendrycks-The Many Faces of Robustness: A Critical Analysis of Out-of-Distribution Generalization [paper](https://arxiv.org/abs/2006.16241)
 * 2020-W Liu-Energy-based Out-of-distribution Detection [paper](https://arxiv.org/abs/2010.03759)
+* 2020-YC Hsu-Generalized ODIN: Detecting Out-of-distribution Image without Learning from
+Out-of-distribution Data [paper](https://arxiv.org/abs/2002.11297)
 * 2021-M Arjovsky -Out of Distribution Generalization in Machine Learning [paper](https://arxiv.org/abs/2103.02667)
 * 2021-D Zhang -Can Subnetwork Structure be the Key to Out-of-Distribution Generalization? [paper](https://arxiv.org/abs/2106.02890)
 * 2021-X Wang-Undefined class-label detection vs out-of-distribution detection [paper](https://arxiv.org/abs/2102.12959)
@@ -96,6 +103,12 @@
 * 2021-Z Lin-MOOD: Multi-level Out-of-distribution Detection [paper](https://arxiv.org/abs/2104.14726)
 * 2021-R Huang-MOS: Towards Scaling Out-of-distribution Detection for Large Semantic Space [paper](https://arxiv.org/abs/2105.01879)
 * 2021-A Zaeemzadeh-Out-of-Distribution Detection Using Union of 1-Dimensional Subspaces [paper](https://openaccess.thecvf.com/content/CVPR2021/html/Zaeemzadeh_Out-of-Distribution_Detection_Using_Union_of_1-Dimensional_Subspaces_CVPR_2021_paper.html)
+* 2021-Y Sun-ReAct: Out-of-distribution Detection With
+Rectified Activations [paper](https://arxiv.org/abs/2111.12797)
+* 2021-K Bibas-Single Layer Predictive Normalized Maximum
+Likelihood for Out-of-Distribution Detection [paper](https://arxiv.org/abs/2110.09246)
+* 2021-M Zhang -On the Out-of-distribution Generalization of
+Probabilistic Image Modelling [paper](https://arxiv.org/abs/2109.02639)
 * [paper](http://github.com)
 
 * * *
